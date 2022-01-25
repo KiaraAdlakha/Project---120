@@ -1,0 +1,17 @@
+body
+{
+ background: linear-gradient(lightblue 0% , purple 100%);
+ color:white;
+}
+.div
+{
+    background-color: lightcoral;
+    width: 50%;
+    border-radius: 10px;
+    color: crimson;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+}
